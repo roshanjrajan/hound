@@ -11,7 +11,7 @@ your changes (you can read more about pull requests on GitHub [here](http://help
 
 When you send a pull request, please be sure to include: 
 - unit tests that validate that your changes work as expected (both for Go and for JavaScript changes)
-- consice code comments (it can help to imagine that you're explaining your code to a total stranger)
+- concise code comments (it can help to imagine that you're explaining your code to a total stranger)
 - an examples, if necessary.
 
 ## More
